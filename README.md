@@ -18,6 +18,22 @@ release sequence is implied.
 | --- | --- | --- |
 | `iPad` | [17.7.5 (21H420) → 17.7.6 (21H423)](diffs/17_7_5_21H420__vs_17_7_6_21H423/README.md) | [provenance](manifests/17_7_5_21H420__vs_17_7_6_21H423.json) |
 | `iPad` | [17.7.7 (21H433) → 17.7.8 (21H440)](diffs/17_7_7_21H433__vs_17_7_8_21H440/README.md) | [provenance](manifests/17_7_7_21H433__vs_17_7_8_21H440.json) |
+| `iPhone15,2` | [17.0.1 (21A340) → 17.0.2 (21A351)](diffs/17_0_1_21A340__vs_17_0_2_21A351/README.md) | [provenance](manifests/17_0_1_21A340__vs_17_0_2_21A351.json) |
+| `iPhone15,2` | [17.0 (21A329) → 17.0.1 (21A340)](diffs/17_0_21A329__vs_17_0_1_21A340/README.md) | [provenance](manifests/17_0_21A329__vs_17_0_1_21A340.json) |
+| `iPhone16,1` | [17.0.2 (21A350) → 17.0.3 (21A360)](diffs/17_0_2_21A350__vs_17_0_3_21A360/README.md) | [provenance](manifests/17_0_2_21A350__vs_17_0_3_21A360.json) |
+| `iPhone16,1` | [17.0.3 (21A360) → 17.1 (21B80)](diffs/17_0_3_21A360__vs_17_1_21B80/README.md) | [provenance](manifests/17_0_3_21A360__vs_17_1_21B80.json) |
+| `iPhone16,1` | [17.1.1 (21B91) → 17.1.2 (21B101)](diffs/17_1_1_21B91__vs_17_1_2_21B101/README.md) | [provenance](manifests/17_1_1_21B91__vs_17_1_2_21B101.json) |
+| `iPhone16,1` | [17.1 (21B80) → 17.1.1 (21B91)](diffs/17_1_21B80__vs_17_1_1_21B91/README.md) | [provenance](manifests/17_1_21B80__vs_17_1_1_21B91.json) |
+| `iPhone16,1` | [17.1.2 (21B101) → 17.2 (21C62)](diffs/17_1_2_21B101__vs_17_2_21C62/README.md) | [provenance](manifests/17_1_2_21B101__vs_17_2_21C62.json) |
+| `iPhone16,1` | [17.2.1 (21C66) → 17.3 (21D50)](diffs/17_2_1_21C66__vs_17_3_21D50/README.md) | [provenance](manifests/17_2_1_21C66__vs_17_3_21D50.json) |
+| `iPhone16,1` | [17.2 (21C62) → 17.2.1 (21C66)](diffs/17_2_21C62__vs_17_2_1_21C66/README.md) | [provenance](manifests/17_2_21C62__vs_17_2_1_21C66.json) |
+| `iPhone16,1` | [17.3.1 (21D61) → 17.4 (21E219)](diffs/17_3_1_21D61__vs_17_4_21E219/README.md) | [provenance](manifests/17_3_1_21D61__vs_17_4_21E219.json) |
+| `iPhone16,1` | [17.3 (21D50) → 17.3.1 (21D61)](diffs/17_3_21D50__vs_17_3_1_21D61/README.md) | [provenance](manifests/17_3_21D50__vs_17_3_1_21D61.json) |
+| `iPhone16,1` | [17.4.1 (21E236) → 17.4.1 (21E237)](diffs/17_4_1_21E236__vs_17_4_1_21E237/README.md) | [provenance](manifests/17_4_1_21E236__vs_17_4_1_21E237.json) |
+| `iPhone16,1` | [17.4.1 (21E237) → 17.5 (21F79)](diffs/17_4_1_21E237__vs_17_5_21F79/README.md) | [provenance](manifests/17_4_1_21E237__vs_17_5_21F79.json) |
+| `iPhone16,1` | [17.4 (21E219) → 17.4.1 (21E236)](diffs/17_4_21E219__vs_17_4_1_21E236/README.md) | [provenance](manifests/17_4_21E219__vs_17_4_1_21E236.json) |
+| `iPhone16,1` | [17.5.1 (21F90) → 17.6 (21G80)](diffs/17_5_1_21F90__vs_17_6_21G80/README.md) | [provenance](manifests/17_5_1_21F90__vs_17_6_21G80.json) |
+| `iPhone16,1` | [17.5 (21F79) → 17.5.1 (21F90)](diffs/17_5_21F79__vs_17_5_1_21F90/README.md) | [provenance](manifests/17_5_21F79__vs_17_5_1_21F90.json) |
 | `iPhone16,2` | [17.6.1 (21G101) → 17.7 (21H16)](diffs/17_6_1_21G101__vs_17_7_21H16/README.md) | [provenance](manifests/17_6_1_21G101__vs_17_7_21H16.json) |
 | `iPhone16,2` | [17.6.1 (21G93) → 17.6.1 (21G101)](diffs/17_6_1_21G93__vs_17_6_1_21G101/README.md) | [provenance](manifests/17_6_1_21G93__vs_17_6_1_21G101.json) |
 | `iPhone16,2` | [17.6 (21G80) → 17.6.1 (21G93)](diffs/17_6_21G79__vs_17_6_1_21G93/README.md) | [provenance](manifests/17_6_21G79__vs_17_6_1_21G93.json) |
