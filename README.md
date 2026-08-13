@@ -36,6 +36,10 @@ release sequence is implied.
 | `iPhone16,1` | [17.5 (21F79) → 17.5.1 (21F90)](diffs/17_5_21F79__vs_17_5_1_21F90/README.md) | [provenance](manifests/17_5_21F79__vs_17_5_1_21F90.json) |
 | `iPhone16,2` | [17.6.1 (21G101) → 17.7 (21H16)](diffs/17_6_1_21G101__vs_17_7_21H16/README.md) | [provenance](manifests/17_6_1_21G101__vs_17_7_21H16.json) |
 | `iPhone16,2` | [17.6.1 (21G93) → 17.6.1 (21G101)](diffs/17_6_1_21G93__vs_17_6_1_21G101/README.md) | [provenance](manifests/17_6_1_21G93__vs_17_6_1_21G101.json) |
+| `iPhone16,2` | [17.6 (21G5052e) → 17.6 (21G5061c)](diffs/17_6_21G5052e__vs_17_6_21G5061c/TOC.md) | [provenance](manifests/17_6_21G5052e__vs_17_6_21G5061c.json) |
+| `iPhone16,2` | [17.6 (21G5061c) → 17.6 (21G5066d)](diffs/17_6_21G5061c__vs_17_6_21G5066d/TOC.md) | [provenance](manifests/17_6_21G5061c__vs_17_6_21G5066d.json) |
+| `iPhone16,2` | [17.6 (21G5066d) → 17.6 (21G5075a)](diffs/17_6_21G5066d__vs_17_6_21G5075a/TOC.md) | [provenance](manifests/17_6_21G5066d__vs_17_6_21G5075a.json) |
+| `iPhone16,2` | [17.6 (21G5075a) → 17.6 (21G79)](diffs/17_6_21G5075a__vs_17_6_21G79/TOC.md) | [provenance](manifests/17_6_21G5075a__vs_17_6_21G79.json) |
 | `iPhone16,2` | [17.6 (21G80) → 17.6.1 (21G93)](diffs/17_6_21G79__vs_17_6_1_21G93/README.md) | [provenance](manifests/17_6_21G79__vs_17_6_1_21G93.json) |
 
 ## Layout and integrity
