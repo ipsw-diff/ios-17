@@ -1,0 +1,15 @@
+{
+  "schema_version": 2,
+  "id": "ios-17",
+  "platform": "iOS",
+  "appledb_platform": "iPadOS",
+  "device": "iPad7,5",
+  "major_version": 17,
+  "anchor": {
+    "version": "17.7.8",
+    "build": "21H440",
+    "released": "2025-05-19T00:00:00Z",
+    "beta": false,
+    "rc": false
+  }
+}
