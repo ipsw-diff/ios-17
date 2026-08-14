@@ -1,0 +1,167 @@
+{
+  "catalog_commit": "b2acda91fb3a16d1a9779d564b64ba8bac37b50d",
+  "discovery": {
+    "anchor": {
+      "appledb_path": "osFiles/iPadOS/21x - 17.x/21H440.json",
+      "beta": false,
+      "build": "21H440",
+      "rc": false,
+      "released": "2025-05-19T00:00:00Z",
+      "source": {
+        "input": "iPad_64bit_TouchID_ASTC_17.7.8_21H440_Restore.ipsw",
+        "sha256": "4310a600c27fa76b660e6222d2ab8da3ca917ebe1360c3a47e9e92139f225294",
+        "size": 6849779407,
+        "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-53165/70E3BE3A-3C25-43A0-A8D9-8271C1AA802B/iPad_64bit_TouchID_ASTC_17.7.8_21H440_Restore.ipsw"
+      },
+      "version": "17.7.8"
+    },
+    "appledb": {
+      "commit": "d227e42c3a2449bec0c8a3b1962d7157dddb5e34",
+      "repository": "https://github.com/littlebyteorg/appledb"
+    },
+    "appledb_platform": "iPadOS",
+    "device": "iPad7,5",
+    "edges": [
+      {
+        "from": {
+          "appledb_path": "osFiles/iPadOS/21x - 17.x/21H440.json",
+          "beta": false,
+          "build": "21H440",
+          "rc": false,
+          "released": "2025-05-19T00:00:00Z",
+          "source": {
+            "input": "iPad_64bit_TouchID_ASTC_17.7.8_21H440_Restore.ipsw",
+            "sha256": "4310a600c27fa76b660e6222d2ab8da3ca917ebe1360c3a47e9e92139f225294",
+            "size": 6849779407,
+            "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-53165/70E3BE3A-3C25-43A0-A8D9-8271C1AA802B/iPad_64bit_TouchID_ASTC_17.7.8_21H440_Restore.ipsw"
+          },
+          "version": "17.7.8"
+        },
+        "to": {
+          "appledb_path": "osFiles/iPadOS/21x - 17.x/21H446.json",
+          "beta": false,
+          "build": "21H446",
+          "rc": false,
+          "released": "2025-07-29T00:00:00Z",
+          "source": {
+            "input": "iPad_64bit_TouchID_ASTC_17.7.9_21H446_Restore.ipsw",
+            "sha256": "1afe8efd9853ac3b2ddc54eb5bddff6c6221b53d9be35c2ce30c9fec5acfafd9",
+            "size": 6850641498,
+            "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-71080/D77D7F9B-897E-4161-B00E-C53BEE978903/iPad_64bit_TouchID_ASTC_17.7.9_21H446_Restore.ipsw"
+          },
+          "version": "17.7.9"
+        }
+      },
+      {
+        "from": {
+          "appledb_path": "osFiles/iPadOS/21x - 17.x/21H446.json",
+          "beta": false,
+          "build": "21H446",
+          "rc": false,
+          "released": "2025-07-29T00:00:00Z",
+          "source": {
+            "input": "iPad_64bit_TouchID_ASTC_17.7.9_21H446_Restore.ipsw",
+            "sha256": "1afe8efd9853ac3b2ddc54eb5bddff6c6221b53d9be35c2ce30c9fec5acfafd9",
+            "size": 6850641498,
+            "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-71080/D77D7F9B-897E-4161-B00E-C53BEE978903/iPad_64bit_TouchID_ASTC_17.7.9_21H446_Restore.ipsw"
+          },
+          "version": "17.7.9"
+        },
+        "to": {
+          "appledb_path": "osFiles/iPadOS/21x - 17.x/21H450.json",
+          "beta": false,
+          "build": "21H450",
+          "rc": false,
+          "released": "2025-08-20T00:00:00Z",
+          "source": {
+            "input": "iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw",
+            "sha256": "030b5b912fa5eaf91d2ee726540e22bbf7c43e0f6d3ec8aeb9d00554d04fad33",
+            "size": 6849286769,
+            "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21789/ED7E830C-3B1E-4F37-8D15-08FC13230F86/iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw"
+          },
+          "version": "17.7.10"
+        }
+      },
+      {
+        "from": {
+          "appledb_path": "osFiles/iPadOS/21x - 17.x/21H450.json",
+          "beta": false,
+          "build": "21H450",
+          "rc": false,
+          "released": "2025-08-20T00:00:00Z",
+          "source": {
+            "input": "iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw",
+            "sha256": "030b5b912fa5eaf91d2ee726540e22bbf7c43e0f6d3ec8aeb9d00554d04fad33",
+            "size": 6849286769,
+            "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/093-21789/ED7E830C-3B1E-4F37-8D15-08FC13230F86/iPad_64bit_TouchID_ASTC_17.7.10_21H450_Restore.ipsw"
+          },
+          "version": "17.7.10"
+        },
+        "to": {
+          "appledb_path": "osFiles/iPadOS/21x - 17.x/21H461.json",
+          "beta": false,
+          "build": "21H461",
+          "rc": false,
+          "released": "2026-05-11T00:00:00Z",
+          "source": {
+            "input": "iPad_64bit_TouchID_ASTC_17.7.11_21H461_Restore.ipsw",
+            "sha256": "ef62bc3b566ea10c7cdf10d3de42e3532dca74ed5aef0f15ca62872df8bfc88a",
+            "size": 6849577393,
+            "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77020/D8DBC7A6-00AE-468D-8580-7FE5656EAE45/iPad_64bit_TouchID_ASTC_17.7.11_21H461_Restore.ipsw"
+          },
+          "version": "17.7.11"
+        }
+      }
+    ],
+    "latest": {
+      "appledb_path": "osFiles/iPadOS/21x - 17.x/21H461.json",
+      "beta": false,
+      "build": "21H461",
+      "rc": false,
+      "released": "2026-05-11T00:00:00Z",
+      "source": {
+        "input": "iPad_64bit_TouchID_ASTC_17.7.11_21H461_Restore.ipsw",
+        "sha256": "ef62bc3b566ea10c7cdf10d3de42e3532dca74ed5aef0f15ca62872df8bfc88a",
+        "size": 6849577393,
+        "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77020/D8DBC7A6-00AE-468D-8580-7FE5656EAE45/iPad_64bit_TouchID_ASTC_17.7.11_21H461_Restore.ipsw"
+      },
+      "version": "17.7.11"
+    },
+    "major_version": 17,
+    "platform": "iOS",
+    "schema_version": 2,
+    "source_inventory": {
+      "observed": 64,
+      "selected": 4
+    },
+    "status": "candidate",
+    "track_id": "ios-17"
+  },
+  "generator": {
+    "name": "ipsw",
+    "version": "Version: 3.1.708, BuildCommit: 84f5d9aef45149840bdd00b7b8e661088c1d6881"
+  },
+  "inputs": [
+    {
+      "role": "previous",
+      "sha256": "4310a600c27fa76b660e6222d2ab8da3ca917ebe1360c3a47e9e92139f225294",
+      "size": 6849779407,
+      "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-53165/70E3BE3A-3C25-43A0-A8D9-8271C1AA802B/iPad_64bit_TouchID_ASTC_17.7.8_21H440_Restore.ipsw"
+    },
+    {
+      "role": "next",
+      "sha256": "1afe8efd9853ac3b2ddc54eb5bddff6c6221b53d9be35c2ce30c9fec5acfafd9",
+      "size": 6850641498,
+      "url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/082-71080/D77D7F9B-897E-4161-B00E-C53BEE978903/iPad_64bit_TouchID_ASTC_17.7.9_21H446_Restore.ipsw"
+    }
+  ],
+  "schema_version": 1,
+  "signatures": {
+    "commit": "81178cfe6c8869612ef092f6471fce3e17d95b20",
+    "repository": "https://github.com/blacktop/symbolicator"
+  },
+  "source_commit": "6741fd0170528c3fb2b356527bb59a4371e00446",
+  "source_tag": "payload/17_7_8_21H440_vs_17_7_9_21H446",
+  "workflow_commit": "ceeccb5d4e16e807ca9af9c79e1450f610c2558b",
+  "workflow_run": "https://github.com/ipsw-diff/ios-17/actions/runs/31833904647"
+}
