@@ -2,7 +2,7 @@ name: Discover iOS 17 firmware
 
 on:
   schedule:
-    - cron: "39 */6 * * *"
+    - cron: "39 * * * *"
   pull_request:
     paths:
       - .github/workflows/discover.yml
